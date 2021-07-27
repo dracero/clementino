@@ -2,7 +2,7 @@
 import { createChatBotMessage } from "react-chatbot-kit";
 
 const config = {
-  initialMessages: [createChatBotMessage(`Bienvenido al chatbot de Física I`)]
+  initialMessages: [createChatBotMessage(`Bienvenidos`)]
 };
 
 export default config;
